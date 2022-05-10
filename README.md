@@ -4,11 +4,11 @@ A parking automation program developed with C#.
 
 This project was developed by 3 people.
 
-Can Ata from Tekirdag
+Can Ata Tekirdagli
 
-Halit Çelenk
+Halit Celenk
 
-Muhammed Emin Babayiğit
+Muhammed Emin Babayigit
 
 
 Program run instructions

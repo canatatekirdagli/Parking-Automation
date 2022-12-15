@@ -2,15 +2,6 @@
 School project for Database Management Systems.
 A parking automation program developed with C#.
 
-This project was developed by 3 people.
-
-Can Ata Tekirdagli
-
-Halit Celenk
-
-Muhammed Emin Babayigit
-
-
 Program run instructions
 Requirements:
 
